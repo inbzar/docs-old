@@ -1,5 +1,7 @@
 ---
 title: Overview
+cascade:
+  type: docs
 ---
 
 InBzar is a versatile e-commerce platform designed to empower businesses of all types to thrive online. Whether you're looking to start a subscription box service, sell digital products, or create a unique online store, InBzar provides the comprehensive tools and features you need. With customizable themes, flexible payment options, robust marketing and notification systems, real-time customer chat, and in-depth web analytics, InBzar helps you manage and grow your business efficiently. Our platform supports seamless integration, offers transparent pricing with no hidden fees, and provides continuous support to ensure your success. Build and enhance your e-commerce presence with InBzar, where innovation meets simplicity.

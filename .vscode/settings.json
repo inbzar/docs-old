@@ -1,9 +1,4 @@
 {
-  "cSpell.words": [
-    "Bzar",
-    "goldmark",
-    "hextra",
-    "imfing",
-    "inbzar"
-  ]
+  "editor.formatOnSave": false,
+  "cSpell.words": ["Bzar", "goldmark", "hextra", "imfing", "inbzar"]
 }

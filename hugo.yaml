@@ -7,6 +7,13 @@ title: Docs
 
 languageCode: en-us
 
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false
+
 params:
   description: Documentation for InBzar
 

@@ -14,30 +14,15 @@ markup:
   highlight:
     noClasses: false
 
-params:
-  description: Documentation for InBzar
-
-  navbar:
-    displayTitle: true
-    displayLogo: true
-    logo:
-      path: images/logo.png
-      width: 130
-
-  footer:
-    enable: true
-    displayCopyright: true
-    displayPoweredBy: false
-
 menu:
   main:
     - identifier: getStarted
       name: Get Started
-      pageRef: /get-started
+      pageRef: /v1
       weight: 1
     - identifier: recipes
       name: Recipes
-      pageRef: /recipes
+      pageRef: /v1/recipes
       weight: 2
     - identifier: blog
       name: Blog
@@ -67,3 +52,22 @@ menu:
       name: "InBzar Platform ↗"
       url: "https://inbzar.com/"
       weight: 2
+
+
+params:
+  description: Documentation for InBzar
+
+  navbar:
+    displayTitle: true
+    displayLogo: true
+    logo:
+      path: images/logo.png
+      width: 130
+
+  footer:
+    enable: true
+    displayCopyright: true
+    displayPoweredBy: false
+
+  displayUpdatedDate: true
+  dateFormat: "January 2, 2006"

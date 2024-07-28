@@ -28,7 +28,7 @@ layout: hextra-home
 </div>
 
 <div class="hx-mb-6">
-{{< hextra/hero-button text="Get Started" link="get-started" >}}
+{{< hextra/hero-button text="Get Started" link="v1" >}}
 </div>
 
 <div class="hx-mt-6"></div>
@@ -36,7 +36,7 @@ layout: hextra-home
 
 {{< hextra/feature-grid >}}
   {{< hextra/feature-card
-    link="/recipes/create-subscription-box-business"
+    link="/v1/recipes/create-subscription-box-business"
     title="Create Subscription Box Business"
     subtitle="Launch and manage a Subscription Box Business effortlessly with InBzar."
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
@@ -45,16 +45,16 @@ layout: hextra-home
     style="background: radial-gradient(ellipse at 50% 80%,rgba(194,97,254,0.15),hsla(0,0%,100%,0));"
   >}}
   {{< hextra/feature-card
-    link="/recipes/sell-subscription-as-recurring-and-onetime-purchase"
+    link="/v1/recipes/sell-subscription-as-recurring-and-onetime-purchase"
     title="Sell Subscription as Recurring and Onetime purchase"
     subtitle="With InBzar, you can sell subscriptions both as recurring and one-time purchases."
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-lg:hx-min-h-[340px]"
-    image="images/recipes/recurring-and-onetime-payment.png"
-    imageClass="hx-top-[40%] hx-left-[36px] hx-w-[180%] sm:hx-w-[110%] dark:hx-opacity-80"
+    image="images/recipes/purchase-vs-subscribe.png"
+    imageClass="hx-rounded-3xl hx-top-[40%] hx-left-[36px] hx-w-[180%] sm:hx-w-[110%] dark:hx-opacity-80"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(142,53,74,0.15),hsla(0,0%,100%,0));"
   >}}
   {{< hextra/feature-card
-    link="/recipes/start-selling-digital-products"
+    link="/v1/recipes/start-selling-digital-products"
     title="Start selling Digital Products"
     subtitle="Easily upload and manage files, documents, and videos, offering instant access to your customers."
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"

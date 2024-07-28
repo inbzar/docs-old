@@ -1,8 +1,7 @@
 ---
 title: User Guide
-weight: 1
-sidebar:
-  open: true
+cascade:
+  type: docs
 ---
 
 ## Welcome to InBzar’s User Guide

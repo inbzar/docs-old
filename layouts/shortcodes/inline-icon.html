@@ -1,0 +1,6 @@
+{{ $src := .Get "src" }}
+{{ $alt := .Get "alt" }}
+{{ $width := .Get "width" | default "20px" }}
+{{ $height := .Get "height" | default "20px" }}
+
+<img src="{{ $src }}" alt="{{ $alt }}" style="display: inline; vertical-align: sub; width: {{$width}}; height: {{$height}}; margin: 0; margin-bottom:0.25rem" />

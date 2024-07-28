@@ -1,8 +1,6 @@
 ---
 title: Get Started
 weight: 1
-sidebar:
-  open: true
 ---
 
 Explore the following sections to learn how to use Hextra:
